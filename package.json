@@ -1,0 +1,41 @@
+{
+  "name": "super-trend",
+  "version": "1.0.0",
+  "description": "Simple Node.js module for calculating SuperTrend",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha tests/* && nyc report --reporter=text-lcov",
+    "precommit": "npm t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falconsw/super-trend.git"
+  },
+  "engines": {
+    "node": ">=v8.0.0"
+  },
+  "keywords": [
+    "TA",
+    "technical analysis",
+    "Super Trend",
+    "ST",
+    "nodejs",
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "falconsw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/falconsw/super-trend/issues"
+  },
+  "homepage": "https://github.com/falconsw/super-trend#readme",
+
+  "dependencies": {
+    "technicalindicators": "^3.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0"
+  }
+}
