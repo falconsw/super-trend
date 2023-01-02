@@ -1,6 +1,6 @@
 {
   "name": "node-super-trend",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple Node.js module for calculating SuperTrend",
   "main": "index.js",
   "scripts": {
@@ -30,7 +30,6 @@
     "url": "https://github.com/falconsw/super-trend/issues"
   },
   "homepage": "https://github.com/falconsw/super-trend#readme",
-
   "dependencies": {
     "technicalindicators": "^3.1.0"
   },
