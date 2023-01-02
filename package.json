@@ -1,5 +1,5 @@
 {
-  "name": "@falconsw/super-trend",
+  "name": "node-super-trend",
   "version": "1.0.0",
   "description": "Simple Node.js module for calculating SuperTrend",
   "main": "index.js",

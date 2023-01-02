@@ -11,7 +11,7 @@ SuperTrend is a trend following indicator that is used to identify the current t
 ## Installation
 
 ```bash
-npm i @falconsw/super-trend
+npm i node-super-trend
 ```
 
 ## Usage:
