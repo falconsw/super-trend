@@ -1,5 +1,3 @@
-[![Coverage Status](https://coveralls.io/repos/github/falconsw/super-trend/badge.svg?branch=master)](https://coveralls.io/github/falconsw/super-trend?branch=master)
-
 # super-trend
 ### Super Trend Indicator
 
