@@ -58,6 +58,8 @@ npm i node-super-trend
  * Multiplier = Multiplier for the ATR period
  */
 
+const SuperTrend = require('node-super-trend')
+
 const st = new SuperTrend(data, 10, 3).calculate();
 ```
 ```js
