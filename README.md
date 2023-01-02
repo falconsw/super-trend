@@ -8,7 +8,13 @@ SuperTrend is a trend following indicator that is used to identify the current t
 
 ![](cover.png)
 
-# Usage:
+## Installation
+
+```bash
+npm i @falconsw/super-trend
+```
+
+## Usage:
 
 ```js
   const data = [
