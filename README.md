@@ -1,4 +1,4 @@
-# super-trend
+![NPM Downloads](https://img.shields.io/npm/dm/node-super-trend.svg)
 ### Super Trend Indicator
 
 Simple Node.js module for calculating SuperTrend
