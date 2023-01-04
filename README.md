@@ -85,7 +85,7 @@ npm i node-super-trend
 
 const SuperTrend = require('node-super-trend')
 
-const st = new SuperTrend(data, 10, 3).calculate();
+const st = new SuperTrend(SampleData, 10, 3).calculate();
 ```
 ```js
    Result:
