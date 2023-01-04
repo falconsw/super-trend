@@ -94,9 +94,9 @@ class SuperTrend {
         for (i = 0; i < r.length; i++) {
 
             if (r[i][4] < st[i]) {
-                position.push({direction: 'short', value: st[i]})
+                position.push({trend: 'short', value: st[i]})
             } else if (r[i][4] > st[i]) {
-                position.push({direction: 'long', value: st[i]})
+                position.push({trend: 'long', value: st[i]})
             }
         }
 

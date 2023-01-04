@@ -90,19 +90,37 @@ const st = new SuperTrend(data, 10, 3).calculate();
 ```js
    Result:
     [
-        { direction: 'short', value: 33.457300317625496 },
-        { direction: 'short', value: 33.40807028586295 },
-        { direction: 'short', value: 32.507263257276655 },
-        { direction: 'short', value: 32.507263257276655 },
-        { direction: 'short', value: 32.507263257276655 },
-        { direction: 'short', value: 32.507263257276655 },
-        { direction: 'short', value: 32.507263257276655 },
-        { direction: 'short', value: 32.507263257276655 },
-        { direction: 'short', value: 32.507263257276655 },
-        { direction: 'short', value: 32.507263257276655 },
-        { direction: 'short', value: 32.507263257276655 },
-        { direction: 'short', value: 31.944779289490853 },
-        { direction: 'short', value: 31.944779289490853 }
+        { trend: 'short', value: 16789.78109803569 },
+        { trend: 'short', value: 16789.78109803569 },
+        { trend: 'short', value: 16769.00518940891 },
+        { trend: 'short', value: 16769.00518940891 },
+        { trend: 'short', value: 16769.00518940891 },
+        { trend: 'short', value: 16769.00518940891 },
+        { trend: 'short', value: 16769.00518940891 },
+        { trend: 'short', value: 16769.00518940891 },
+        { trend: 'short', value: 16769.00518940891 },
+        { trend: 'short', value: 16769.00518940891 },
+        { trend: 'short', value: 16769.00518940891 },
+        { trend: 'short', value: 16769.00518940891 },
+        { trend: 'long', value: 16641.40357329644 },
+        { trend: 'long', value: 16711.393215966797 },
+        { trend: 'long', value: 16711.393215966797 },
+        { trend: 'long', value: 16711.393215966797 },
+        { trend: 'long', value: 16718.197754439792 },
+        { trend: 'long', value: 16718.197754439792 },
+        { trend: 'long', value: 16718.197754439792 },
+        { trend: 'long', value: 16718.197754439792 },
+        { trend: 'long', value: 16718.197754439792 },
+        { trend: 'long', value: 16718.197754439792 },
+        { trend: 'long', value: 16718.197754439792 },
+        { trend: 'long', value: 16718.197754439792 },
+        { trend: 'long', value: 16718.197754439792 },
+        { trend: 'long', value: 16718.197754439792 },
+        { trend: 'long', value: 16725.994313089133 },
+        { trend: 'long', value: 16736.264881780222 },
+        { trend: 'long', value: 16736.264881780222 },
+        { trend: 'long', value: 16736.264881780222 }
+
     ]
 ```
 
